@@ -12,3 +12,5 @@ Der Sockel und die SMD-Auflage sind Holzreste.
 - 2 Schrauben 3,0x35
 - 2 Schrauben 2,5x30
 - 1 Haushaltsgummi
+
+[![](https://up.picr.de/38151977ik.png)](https://up.picr.de/38151977ik.png)
